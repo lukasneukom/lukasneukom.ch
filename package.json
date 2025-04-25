@@ -1,0 +1,19 @@
+{
+  "name": "lukasneukom.ch",
+  "version": "0.1.0",
+  "description": "Personal Website of Lukas Neukom",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lukasneukom/lukasneukom.ch.git"
+  },
+  "author": "Lukas Neukom",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lukasneukom/lukasneukom.ch/issues"
+  },
+  "homepage": "https://github.com/lukasneukom/lukasneukom.chde",
+  "type": "module",
+  "dependencies": {
+    "@11ty/eleventy": "^3.0.0"
+  }
+}

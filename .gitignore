@@ -1,0 +1,6 @@
+# Node.js dependencies
+node_modules/
+
+# Eleventy output directory
+_site/
+
